@@ -246,6 +246,10 @@ Choose from the list of available rules:
     whose lines all start with an asterisk (``phpdocs_like``) or any
     multi-line comment (``all_multiline``); defaults to ``'phpdocs_only'``
 
+* **array_indentation**
+
+  Multiline arrays must be indented with configured indentation.
+
 * **array_syntax**
 
   PHP arrays should be declared using the configured syntax.
